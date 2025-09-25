@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7uDNT4P/RD0=",
+  "success": true,
+  "projectFilePath": "/Users/atiliat/TaskManager/TaskManager/TaskManager.csproj",
+  "expectedPackageFiles": [
+    "/Users/atiliat/.nuget/packages/microsoft.aspnetcore.openapi/9.0.8/microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "/Users/atiliat/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
